@@ -1,0 +1,25 @@
+.navbar {
+    background-color: rgb(126, 190, 30);
+}
+
+.navbar-brand {
+    color: black;
+}
+
+.nav-link {
+    color: white;
+}
+
+.col-sm {
+    text-align: center;
+}
+
+.title-text {
+    font-weight: bold;
+}
+/* 
+.table {
+    width:50%; 
+    margin-left:25%; 
+    margin-right:25%;
+} */
